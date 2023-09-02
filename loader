@@ -1,0 +1,24 @@
+local gameId = game.GameId
+
+if gameId == 3150475059 then
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/script"))()
+    
+
+elseif gameId == 601130232 then
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/beeswarmsim"))()
+
+elseif gameId == 2766122154 then
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/zen-ware/main/football%20duels"))()
+
+elseif gameId == 2730121456 then
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/hc6"))()
+
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/wrong%20game"))()
+    
+
+end
