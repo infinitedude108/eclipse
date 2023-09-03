@@ -16,8 +16,12 @@ elseif gameId == 2766122154 then
 elseif gameId == 2730121456 then
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/hc6"))()
+elseif gameId == 3032132418 then
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/hccb"))()
 
 else
+
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/wrong%20game"))()
     
 
