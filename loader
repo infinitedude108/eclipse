@@ -23,7 +23,11 @@ elseif gameId == 3032132418 then
 
 elseif gameId == 111958650 then
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/arsenal"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/arsenal"))()
+
+elseif gameId == 88070565 then
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/bloxyburger"))()
 
 else
 
