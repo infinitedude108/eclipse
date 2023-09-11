@@ -33,6 +33,10 @@ elseif gameId == 1008451066 then
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/dahood"))()
 
+elseif gameId == 703124385 then
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/toh"))()
+
 else
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/wrong%20game"))()
