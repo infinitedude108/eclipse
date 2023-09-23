@@ -52,6 +52,10 @@ elseif gameId == 4582358979 then
 
     print("W.I.P | Work In Progress")
 
+elseif gameId == 4154513353 then
+
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/booga%20booga"))()
+
 else
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/wrong%20game"))()
