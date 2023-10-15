@@ -4,61 +4,12 @@ if gameId == 3150475059 then
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/script"))()
     
-elseif gameId == 601130232 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/beeswarmsim"))()
-
-elseif gameId == 2766122154 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/zen-ware/main/football%20duels"))()
-
-elseif gameId == 2730121456 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/hc6"))()
-
-elseif gameId == 3032132418 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/hccb"))()
-
-elseif gameId == 111958650 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/arsenal"))()
-
-elseif gameId == 88070565 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/bloxyburger"))()
-
-elseif gameId == 1008451066 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/dahood"))()
-
-elseif gameId == 703124385 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/toh"))()
-
 elseif gameId == 4777817887 then
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/blade%20ball"))()
 
-elseif gameId == 423435674 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/football%20universe"))()
-
-elseif gameId == 4341972600 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/aws"))()
-
-elseif gameId == 4154513353 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/booga%20booga"))()
-
-elseif gameId == 2287245386 then
-
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/hoopz"))()
-
 else
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitedude108/test/main/wrong%20game"))()
-    
 
 end
